@@ -12,13 +12,13 @@ Welcome to my Reddit Client, a web application to fetch and display top posts fr
 
 ### Environment Variables
 
-Create a `.env` file in the root directory and add the following lines:
+Create a `.env` file in backend/app and add the following lines to configure access to Reddit's API:
 
 ```env
-REDDIT_CLIENT_ID='your_client_id'
+REDDIT_CLIENT_ID='your_client_id' 
 REDDIT_CLIENT_SECRET='your_client_secret'
-REDDIT_USERNAME='your_username'
-REDDIT_PASSWORD='your_password'
+REDDIT_USERNAME='your reddit username'
+REDDIT_PASSWORD='your reddit password'
 SECRET_KEY='your_secret_key'
 
 ```
