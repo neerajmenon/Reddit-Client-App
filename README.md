@@ -1,5 +1,5 @@
 # Reddit Custom Viewer
-<img width="1792" alt="App Screenshot" src="https://github.com/neerajmenon/Reddit-Custom-Viewer/screenshot.png">
+<img width="1792" alt="Screenshot 2023-11-04 at 9 01 54 PM" src="https://github.com/neerajmenon/Reddit-Client-App/assets/14856688/c30c38bb-e216-4a20-b2ac-c28758b08b13">
 
 Welcome to Reddit Custom Viewer, a web application to fetch and display top posts from specified subreddits.
 
