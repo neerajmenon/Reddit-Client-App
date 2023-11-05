@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Node.js
+node_modules/
+
+# IDE
+.idea/
+
+# Compiled Files
+*.pyc
+*.pyo
+*.pyd
+*.class
+
+# Logs and Databases
+*.log
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# Dependencies
+.env
+
+# macOS
+.DS_Store

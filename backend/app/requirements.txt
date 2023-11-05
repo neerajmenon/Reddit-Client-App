@@ -1,0 +1,4 @@
+Flask==2.1.1
+Werkzeug==2.0.1  # Use the appropriate version
+Flask-CORS==3.0.10
+praw==7.4.0
