@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 class Config:
     REDDIT_CLIENT_ID = os.environ.get('REDDIT_CLIENT_ID')

@@ -7,6 +7,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = Config.SECRET_KEY
 CORS(app)
 
+
 reddit = praw.Reddit(
     client_id=Config.REDDIT_CLIENT_ID,
     client_secret=Config.REDDIT_CLIENT_SECRET,
